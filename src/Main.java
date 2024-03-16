@@ -7,7 +7,6 @@ Author: Pavlenko Anna
 Data: March_15_2024
  */
 
-
 public class Main {
     public static void main(String[] args) {
 
